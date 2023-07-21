@@ -1,2 +1,2 @@
-# ATtiny85.payloads
-these payloads are made by me Jandepan 
+# ATtiny85.payloads.NL
+deze payloads zijn in het nederland
