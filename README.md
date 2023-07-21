@@ -1,4 +1,4 @@
-# ATtiny85.payloads
+# ATTiny85NL.payloads
 deze payloads zijn in het nederlands
 en ik vond het leuk om ze te maken en met andere te delen
 
