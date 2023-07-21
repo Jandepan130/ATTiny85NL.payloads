@@ -1,6 +1,6 @@
 # ATTiny85NL.payloads
 deze payloads zijn in het nederlands
-en ik vond het leuk om ze te maken en met andere te delen
+dus alle text dat normaal in het engels zal zijnis nu in het engels maar wachtwoord stealers enzo kan je hier niet vinden dit zijn allemaal pranks
 
 
 
