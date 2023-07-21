@@ -1,6 +1,7 @@
 # ATTiny85NL.payloads
 deze payloads zijn in het nederlands
-dus alle text dat normaal in het engels zal zijnis nu in het engels maar wachtwoord stealers enzo kan je hier niet vinden dit zijn allemaal pranks
+dus alle dingen die normaal in het engels zijn zijn nu dus nederlans
+en dit zijn geen password stealers of reverse shells nee dit zijn gwn pranks en zodra je de ATTiny85 er uit haalt dan stopt alles meteen
 
 
 
