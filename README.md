@@ -1,5 +1,6 @@
 # ATtiny85.payloads
-deze payloads zijn in het nederland
+deze payloads zijn in het nederlands
+en ik vond het leuk om ze te maken en met andere te delen
 
 
 
